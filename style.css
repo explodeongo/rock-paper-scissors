@@ -38,3 +38,12 @@ h1 {
   align-content: center;
   color: rgba(255, 248, 166, 0.767);
 }
+#textish {
+  color: #dac041;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  max-width: 400px;
+  padding: 10px;
+  margin: 0 auto;
